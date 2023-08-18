@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProfileHomework</string>
+    <string name="name_ned">name: Eddard</string>
+    <string name="surname_stark">surname: Stark</string>
+    <string name="son_of_winterfell_n_n_he_was_believing_that_winter_is_coming_n_n_had_a_friend_bobby_alkoenthusiast_and_king_n_n_sometimes_they_participated_in_wars_to_have_fun_and_get_iron_throne_n_n_died_so_far_from_motherland_due_to_game_of_thrones">BIOGRAPHY:\n \n - Son of Winterfell \n \n - He was believing, that winter is coming \n \n - Had a friend Bobby - alkoEnthusiast and king \n \n - Sometimes they participated in wars to have fun and get Iron Throne :) \n \n - Died so far from Motherland due to Game of Thrones!</string>
+    <string name="email">Email: eddycool@wintermail.com</string>
+    <string name="phone">Phone: +358 (0)207 99999</string>
+</resources>
